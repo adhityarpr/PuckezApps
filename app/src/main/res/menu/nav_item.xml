@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_white_24dp"
+        android:title="@string/nav_home" />
+    <item
+        android:id="@+id/daily"
+        android:icon="@drawable/baseline_work_white_24dp"
+        android:title="@string/nav_daily" />
+    <item
+        android:id="@+id/gallery"
+        android:icon="@drawable/baseline_image_white_24dp"
+        android:title="@string/nav_gallery" />
+    <item
+        android:id="@+id/musvid"
+        android:icon="@drawable/baseline_music_video_white_24dp"
+        android:title="@string/nav_music" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_account_box_white_24dp"
+        android:title="@string/nav_profile" />
+
+</menu>

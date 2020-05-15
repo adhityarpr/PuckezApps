@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PuzkEz</string>
+
+    <string-array name="daily">
+        <item>wake</item>
+        <item>gaming</item>
+        <item>eat</item>
+        <item>sleep</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>wake</item>
+        <item>gaming</item>
+        <item>eat</item>
+        <item>sleep</item>
+    </string-array>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_daily">Daily Activity</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_music">Music Video</string>
+    <string name="nav_profile">Profile</string>
+    <string name="desc">Description</string>
+    <string name="heading">HEADING</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+
+    <string name="profile">Hi Welcome to My Apps, My Name is Adhitya Rizqy Pratama. You can call me Adhitya. I am 20 years old. I was born on April 25, 2000. I live in Bandung. I am a student from one of the universities in Indonesia.I hope you enjoy, Thanks.</string>
+    <string name="home">Hi Welcome to My Apps, My Name is Adhitya Rizqy Pratama. You can call me Adhitya. I am a student from one of the universities in Indonesia.I hope you enjoy, Thanks.</string>
+    <string name="ig">You can also add me in Instagram</string>
+    <string name="my_hobby_is">My Hobby is</string>
+    <string name="i_want_to_be">I Want to be</string>
+    <string name="you_can_find_me_at">You can find me at</string>
+    <string name="AboutAPK">ABOUT THIS APPS \nSDK VERSION 29 \nAPPS VERSION 1.0 \nMY SELF APPS V1.0 \nDESIGN BY ADHITYA RIZQY PRATAMA</string>
+    <string name="myhome">Jl. Rancabolang No.1, Margasari, Kec. Buahbatu, Kota Bandung, Jawa Barat 40286</string>
+    <string name="todo">TODO</string>
+    <string name="go_to_my_instagram">Go to My Instagram</string>
+
+
+</resources>
